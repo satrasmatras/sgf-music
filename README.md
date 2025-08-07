@@ -1,6 +1,6 @@
 # SGF Music - GO Game Music Generator
 
-<img width="1512" height="763" alt="image" src="https://github.com/user-attachments/assets/6e536a47-4133-49ec-84a4-6a48ae50d01a" />
+<img width="949" height="700" alt="image" src="https://github.com/user-attachments/assets/6e85ea1c-bf4d-46c3-a5fc-c660a3751eaa" />
 <img width="934" height="686" alt="image" src="https://github.com/user-attachments/assets/2efc442c-e634-4791-9360-eb475b92fde1" />
 
 
